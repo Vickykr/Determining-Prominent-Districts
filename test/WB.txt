@@ -1,0 +1,53 @@
+23
+alipurduar
+bankura
+paschimbardhaman
+purbabardhaman
+birbhum
+coochbehar
+darjeeling
+uttardinajpur
+dakshindinajpur
+hooghly
+hawrah
+jalpaiguri
+jhargram
+kolkata
+kalimpong
+malda
+paschimmedinipur
+purbamedinipur
+murshidabad
+nadia
+north24parganas
+south24parganas
+purulia
+28
+purbamedinipur south24parganas
+purbamedinipur kolkata
+purbamedinipur paschimmedinipur
+kolkata north24parganas
+kolkata hooghly
+kolkata paschimmedinipur
+paschimmedinipur bankura
+paschimmedinipur purulia
+paschimmedinipur hooghly
+hooghly nadia
+hooghly paschimbardhaman
+hooghly purbabardhaman
+bankura purulia
+bankura paschimbardhaman
+bankura purbabardhaman
+nadia purbabardhaman
+nadia paschimbardhaman
+nadia murshidabad
+nadia birbhum
+birbhum murshidabad
+murshidabad maldah
+maldah dakshindinajpur
+maldah uttardinajpur
+uttardinajpur darjiling
+uttardinajpur jalpaiguri
+darjiling jalpaiguri
+paschimbardhaman birbhum
+purbabardhaman birbhum

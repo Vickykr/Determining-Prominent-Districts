@@ -1,0 +1,38 @@
+11
+Bilaspur
+Chamba
+Hamirpur
+Kangra
+Kinnaur
+Kullu
+Lahaul&Spiti
+Mandi
+Shimla
+Sirmaur
+Solan
+Una
+24
+Chamba Kangra
+Chamba Lahaul&Spiti
+Kangra Una
+Kangra Hamirpur
+Kangra Kullu
+Kangra Mandi
+Kangra Lahaul&Spiti
+Lahaul&Spiti Kullu
+Lahaul&Spiti Kinnaur
+Una Hamirpur
+Una Bilaspur
+Hamirpur Bilaspur
+Hamirpur Mandi
+Mandi Bilaspur
+Mandi Solan
+Mandi Shimla
+Mandi Kullu
+Kullu Shimla 
+Kullu Kinnaur
+Shimla Solan 
+Shimla Sirmaur
+Shimla Kinnaur
+Bilaspur Solan
+Solan Sirmaur

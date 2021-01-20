@@ -1,0 +1,33 @@
+14
+Kasaragod
+Kannur
+Kozhikode
+Wayanad
+Malappuram
+Thrissur
+Palakkad
+Ernakulam
+Alappuzha
+Kottayam
+Idukki
+Pathanamtitta
+Kollam
+Thiruvananthapuram
+17
+Kasaragod Kannur
+Kasaragod Wayanad
+Kannur Kozhikode
+Kozhikode Wayanad
+Kozhikode Malappuram
+Malappuram Thrissur
+Thrissur Ernakulam
+Wayanad Ernakulam
+Palakkad Ernakulam
+Ernakulam Idukki
+Ernakulam Kottayam
+Ernakulam Alappuzha
+Kottayam Pathanamtitta
+Pathanamtitta Idukki
+Pathanamtitta Kollam
+Kollam Thiruvananthapuram
+Thiruvananthapuram Alappuzha

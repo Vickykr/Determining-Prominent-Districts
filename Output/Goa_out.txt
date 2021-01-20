@@ -1,0 +1,6 @@
+Most prominent distric in  is North_Goa.
+
+Betweenness centrality of all disticts of  are :
+
+North_Goa 0
+South_Goa 0

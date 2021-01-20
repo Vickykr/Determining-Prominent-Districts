@@ -1,0 +1,16 @@
+Most prominent distric in  is Zunheboto.
+
+Betweenness centrality of all disticts of  are :
+
+Mon 1
+Longleng 1
+Mokokchung 8
+Tuensang 0.5
+Noklak 8
+Wokha 0
+Zunheboto 36
+Kiphire 0
+Phek 0
+Kohima 18.5
+Dimapur 0
+Peren 0

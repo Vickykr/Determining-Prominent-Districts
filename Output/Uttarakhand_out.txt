@@ -1,0 +1,17 @@
+Most prominent distric in  is PauriGarhwal.
+
+Betweenness centrality of all disticts of  are :
+
+Almora 16.7667
+Bageshwar 3.53333
+Chamoli 14.6
+Champawat 2.5
+Dehradun 11.0667
+Haridwar 15.7333
+Nainital 11.0667
+PauriGarhwal 30.1333
+Pithoragarh 0
+Rudraprayag 8.26667
+TehriGarhwal 5.33333
+UdhamSinghNagar 0
+Uttarkashi 0

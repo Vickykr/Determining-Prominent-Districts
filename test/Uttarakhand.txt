@@ -1,0 +1,34 @@
+13
+Almora
+Bageshwar
+Chamoli
+Champawat
+Dehradun
+Haridwar
+Nainital
+PauriGarhwal
+Pithoragarh
+Rudraprayag
+TehriGarhwal
+UdhamSinghNagar
+Uttarkashi
+19
+Haridwar Dehradun
+Haridwar PauriGarhwal
+Dehradun TehriGarhwal
+Dehradun Uttarkashi
+TehriGarhwal Uttarkashi
+TehriGarhwal Rudraprayag
+Rudraprayag Chamoli
+PauriGarhwal Chamoli
+PauriGarhwal Almora
+PauriGarhwal Nainital
+Chamoli Bageshwar
+UdhamSinghNagar Nainital
+UdhamSinghNagar Champawat
+Nainital Almora
+Nainital Champawat
+Almora Pithoragarh
+Almora Bageshwar
+Almora Champawat
+Champawat Pithoragarh

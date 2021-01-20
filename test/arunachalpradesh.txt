@@ -1,0 +1,42 @@
+16
+Tirap
+Changlang
+Lohit 
+Anjaw
+Dibangvalley
+LowerDibangvalley
+Uppersiang
+Westsiang
+Eastsiang
+Uppersubansiri
+Kurungkumey
+Lowersubansari
+Eastkameng
+PapumPare
+WestKameng
+Tawan
+
+23
+Tirap Changlang
+Changlang Lohit 
+Lohit Anjaw
+Lohit LowerDibangvalley
+LowerDibangvalley Dibangvalley
+LowerDibangvalley Eastsiang
+LowerDibangvalley Uppersiang
+Dibangvalley Uppersiang
+Dibangvalley LowerDibangvalley
+Uppersiang Eastsiang
+Uppersiang Westsiang
+Westsiang Eastsiang
+Westsiang Uppersubansiri
+Westsiang Lowersubansari
+Uppersubansiri Lowersubansari
+Uppersubansiri Kurungkumey
+Kurungkumey Eastkameng
+Kurungkumey PapumPare
+Kurungkumey Lowersubansari
+Lowersubansari PapumPare
+PapumPare Eastkameng
+Eastkameng WestKameng
+WestKameng Tawan

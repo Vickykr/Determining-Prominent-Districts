@@ -1,0 +1,22 @@
+8
+Aizwal
+Champhai
+Kolasib
+Lawngtlai
+Lunglei
+Mamit
+Saiha
+Serchhip
+11
+Aizwal Mamit
+Aizwal Champhai
+Aizwal Kolasib
+Aizwal Serchhip
+Lunglei Serchhip
+Lunglei Mamit
+Lunglei Lawngtlai
+Lunglei Saiha
+Serchhip Champhai
+Mamit Kolasib
+Lawngtlai Saiha
+

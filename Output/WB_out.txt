@@ -1,0 +1,27 @@
+Most prominent distric in  is murshidabad.
+
+Betweenness centrality of all disticts of  are :
+
+alipurduar 41
+bankura 11.15
+paschimbardhaman 8.81667
+purbabardhaman 8.81667
+birbhum 9.75
+coochbehar 0
+darjeeling 0
+uttardinajpur 0
+dakshindinajpur 0
+hooghly 43.35
+hawrah 0
+jalpaiguri 0
+jhargram 0
+kolkata 24.0833
+kalimpong 0
+malda 0
+paschimmedinipur 21.5833
+purbamedinipur 15
+murshidabad 48
+nadia 42.45
+north24parganas 0
+south24parganas 0
+purulia 0

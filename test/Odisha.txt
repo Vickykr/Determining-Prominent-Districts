@@ -1,0 +1,63 @@
+30
+angul
+balangir
+balasore
+bargarh
+bhadrak
+baudh
+cuttack
+deogarh
+dhenkanal
+gajapati
+ganjam
+jagatsinghpur
+jajpur
+jharsuguda
+kandhamal
+kalahandi
+kendrapara
+kendujhar
+khorda
+koraput
+malkangiri
+mayurbhanj
+nabarangpur
+nayagarh
+nuapada
+puri
+rayagada
+sambalpur
+subarnapur
+sundargarh
+30
+malkangiri koraput
+koraput rayagada
+koraput nabarangpur
+rayagada kalahandi
+rayagada gajapati
+rayagada kandhamal
+nabarangpur kalahandi
+kalahandi bolangir
+kalahandi kandhamal
+gajapati ganjam
+kandhamal nayagarh
+kandhamal baudh
+baudh subhanapur
+baudh angul
+nayagarh khorda
+khorda  puri
+chord cuttack
+jagatsinghpur kendrapara
+dhenkanal kendujhar
+baleswar mayurbhanj
+debagarh sundargarh
+bolangir barhgarh
+bolangir baud  
+sambalpur debagarh
+sambalpur angul
+sambalpur bargarh
+kendujhar debagarh
+kendujhar mayurbhanj
+kendujhar sundargarh
+kendujhar baleswar
+

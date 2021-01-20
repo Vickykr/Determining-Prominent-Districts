@@ -1,0 +1,25 @@
+Most prominent distric in  is Jind.
+
+Betweenness centrality of all disticts of  are :
+
+Ambala 19
+Bhiwani 53.2857
+Faridabad 9
+Fatehabad 19
+Gurugram 51.5
+Hisar 69.7857
+Jhajjar 65.9405
+Jind 75.3452
+Kaithal 24.381
+Karnal 36.119
+Kurukshetra 51
+Mahendragarh 4.05952
+Mewat 9
+Palwal 0.5
+Panchkula 0
+Panipat 10.1548
+Rewari 4.5
+Rohtak 38.2143
+Sirsa 0
+Sonipat 38.2143
+Yamunanagar 0

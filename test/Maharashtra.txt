@@ -1,0 +1,100 @@
+36
+Ahmednagar
+Akola
+Amravati
+Aurangabad
+Beed
+Bhandara
+Buldhana
+Chandrapur
+Dhule
+Gadchiroli
+Gondia
+Hingoli
+Jalgaon
+Jalna
+Kolhapur
+Latur
+Mumbai_City
+Mumbai_Suburban
+Nagpur
+Nanded
+Nandurbar
+Nashik
+Osmanabad
+Palghar
+Parbhani
+Pune
+Raigad
+Ratnagiri
+Sangli
+Satara
+Sindhudurg
+Solapur
+Thane
+Wardha
+Washim
+Yavatmal
+60
+Sindhudurg Ratnagiri
+Sindhudurg Kolhapur
+Ratnagiri Raigad
+Ratnagiri Satara
+Kolhapur Sangli
+Sangli Satara
+Sangli Solapur
+Satara Solapur
+Satara Pune
+Solapur Osmanabad
+Solapur Ahmednagar
+Raigad Thane
+Raigad Pune
+Raigad Mumbai_Suburban
+Pune Thane
+Pune Ahmednagar
+Ahmednagar Aurangabad
+Ahmednagar Beed
+Beed Parbhani
+Beed Nanded
+Beed Jalna
+Latur Beed
+Latur Nanded
+Nanded Parbhani
+Nanded Hingoli
+Nanded Yavatmal
+Mumbai_Suburban Thane
+Mumbai_Suburban Palghar
+Mumbai_Suburban Mumbai_City
+Thane Palghar
+Palghar Nashik
+Nashik Dhule
+Nashik Jalgaon
+Nashik Aurangabad
+Aurangabad Jalgaon
+Aurangabad Jalna
+Jalna Buldhana
+Jalna Parbhani
+Parbhani Hingoli
+Hingoli Buldhana
+Hingoli Washim
+Hingoli Yavatmal
+Dhule Nandurbar
+Dhule Jalgaon
+Jalgaon Buldhana
+Buldhana Akola
+Buldhana Washim
+Washim Akola
+Washim Yavatmal
+Yavatmal Wardha
+Yavatmal Chandrapur
+Akola Amravati
+Wardha Amravati
+Wardha Nagpur
+Wardha Chandrapur
+Chandrapur Gadchiroli
+Chandrapur Bhandara
+Amravati Nagpur
+Bhandara Nagpur
+Bhandara Gondia
+
+

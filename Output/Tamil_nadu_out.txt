@@ -1,0 +1,37 @@
+Most prominent distric in  is Tiruchirappalli.
+
+Betweenness centrality of all disticts of  are :
+
+Ariyalur 54.2273
+Chennai 0
+Coimbatore 31
+Cuddalore 22.1167
+Dharmapuri 76.8833
+Dindigul 121.08
+Erode 36.8307
+Kallakurichi 103.042
+Kanchipuram 38.5833
+Kanniyakumari 0
+Karur 23.7474
+Krishnagiri 7.58333
+Madurai 39.0567
+Nagapattinam 0
+Namakkal 29.8102
+Nilgiris 0
+Perambalur 88.0818
+Pudukkottai 76.8032
+Ramanathapuram 0
+Salem 68.8909
+Sivaganga 67.3866
+Thanjavur 94.1939
+Theni 30.8067
+Thoothukudi 0
+Tiruchirappalli 153.845
+Tirunelveli 31
+Tiruppur 54.5307
+Tiruvallur 31.75
+Tiruvannamalai 59.2333
+Tiruvarur 31
+Vellore 20.4167
+Viluppuram 42.9333
+Virudhunagar 93.1667

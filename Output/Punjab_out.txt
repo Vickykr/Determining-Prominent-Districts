@@ -1,0 +1,26 @@
+Most prominent distric in  is Ludhiana.
+
+Betweenness centrality of all disticts of  are :
+
+Amritsar 4.66667
+Barnala 24.8389
+Bathinda 11.0111
+Faridkot 14.0167
+Fatehgarh_Sahib 9.32857
+Fazilka 15.0278
+Ferozepur 17.0278
+Gurdaspur 28.8698
+Hoshiarpur 42.7032
+Jalandhar 51.2048
+Kapurthala 29.9357
+Ludhiana 70.0738
+Mansa 2.86667
+Moga 31.2389
+Muktsar 9.84444
+Nawanshahr 23.6841
+Pathankot 0
+Patiala 4
+Rupnagar 11.9095
+Mohali 2.57619
+Sangrur 17.3786
+Tarn_Taran 11.7968

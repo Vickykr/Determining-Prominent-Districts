@@ -1,0 +1,55 @@
+Most prominent distric in  is Narsimhapur.
+
+Betweenness centrality of all disticts of  are :
+
+Agarmalwa 129.743
+Alirajpur 1.83333
+Anuppur 2.46667
+Ashoknagar 137.357
+Balaghat 0
+Barwani 28.619
+Betul 13.2681
+Bhind 0.5
+Bhopal 46.8824
+Burhanpur 0
+Chhatarpur 56.0057
+Chhindwara 74.2461
+Damoh 238.877
+Datia 23
+Dewas 171.775
+Dhar 73.0734
+Dindori 15.9214
+Guna 179.347
+Gwalior 46.5
+Harda 105.875
+Hoshangabad 253.732
+Indore 51.3177
+Jabalpur 261.241
+Jhabua 4.75794
+Katni 179.217
+Khandwa 47.7566
+Khargone 62.781
+Mandla 13.0405
+Mandsaur 49
+Morena 1.5
+Narsimhapur 348.655
+Neemuch 0
+Panna 0
+Raisen 183.644
+Rajgarh 241.561
+Ratlam 136.03
+Rewa 0
+Sagar 163.532
+Satna 128.68
+Sehore 287.441
+Seoni 54.9379
+Shahdol 17.053
+Shajapur 85.3039
+Sheopur 23
+Shivpuri 226.5
+Sidhi 49.5
+Singrauli 0
+Tikamgarh 0
+Ujjain 88.2842
+Umaria 119.607
+Vidisha 119.638

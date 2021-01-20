@@ -1,0 +1,16 @@
+Most prominent distric in  is Kangra.
+
+Betweenness centrality of all disticts of  are :
+
+Bilaspur 3.56667
+Chamba 0
+Hamirpur 1.45
+Kangra 13.8333
+Kinnaur 1.7
+Kullu 6.51667
+Lahaul&Spiti 3.65
+Mandi 11.9167
+Shimla 8.71667
+Sirmaur 0
+Solan 4.73333
+Una 0.916667

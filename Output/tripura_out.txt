@@ -1,0 +1,12 @@
+Most prominent distric in  is Dhalai.
+
+Betweenness centrality of all disticts of  are :
+
+Dhalai 10
+Sipahijala 2
+Khowai 5
+Gomati 5
+Unakoti 0
+North_Tripura 0
+South_Tripura 0
+West_Tripura 0

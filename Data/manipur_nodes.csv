@@ -1,0 +1,14 @@
+Start,End
+Bishnupur,Churachandpur
+Bishnupur,Imphal
+West,Imphal
+West_Senapati,Imphal
+West_Imphal,East
+Imphal,West_Thoubal
+Imphal,East_Thoubal
+Imphal,East_Senapati
+Thoubal,Chandel
+Chandel,Churachandpur
+Chandel,Ukhrul
+Churachandpur,Tamenglong
+Tamenglong,Senapati

@@ -1,0 +1,34 @@
+Most prominent distric in  is angul.
+
+Betweenness centrality of all disticts of  are :
+
+angul 99.5
+balangir 0
+balasore 0
+bargarh 0
+bhadrak 0
+baudh 16
+cuttack 0
+deogarh 0
+dhenkanal 0
+gajapati 18
+ganjam 0
+jagatsinghpur 0
+jajpur 0
+jharsuguda 0
+kandhamal 54
+kalahandi 70.5
+kendrapara 0
+kendujhar 18.5
+khorda 18
+koraput 19.5
+malkangiri 0
+mayurbhanj 0
+nabarangpur 9
+nayagarh 34
+nuapada 0
+puri 0
+rayagada 53
+sambalpur 18
+subarnapur 0
+sundargarh 0

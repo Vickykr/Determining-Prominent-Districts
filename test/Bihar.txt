@@ -1,0 +1,99 @@
+38
+araria
+arwal
+aurangabad
+banka
+begusarai
+bhagalpur
+bhojpur
+buxar
+darbhanga
+eastchamparan
+gaya
+gopalganj
+jamui
+jehanabad
+khagaria
+kishanganj
+kalmur
+katihar
+lakhisarai
+madhubani
+munger
+madhepura
+muzaffarpur
+nalanda
+nawada
+patna
+purnia
+rohtas
+saharsa
+samastipur
+sheohar
+sheikhpura
+saran
+sitamarhi
+supaul
+siwan
+vaishali
+westchanparan
+59
+westchamparan eastchamparan
+eastchamparan gopalganj
+eastchamparan sheohar
+eastchamparan muzaffarpur
+eastchamparan sitamarhi
+sheohar sitamarhi
+sheohar muzaffarpur
+sitamarhi madhubani
+sitamarhi muzaffarpur
+muzaffarpur dharbhanga
+muzaffarpur gopalganj
+muzaffarpur siwan
+muzaffarpur saran
+muzaffarpur vishali
+muzaffarpur samastipur
+madhubani supaul
+madhubani darbhanga
+madhubani saharsa
+supaul areria
+supaul madhepura
+araria kishanganj
+araria purnia
+araria madhepura
+gopalganj siwan
+gopalganj saran
+siwan saran
+darbhanga medhepura
+darbhanga samastipur
+darbhanga saharsa
+medhepura purnia
+purnia kishanganj
+purnia katihar
+siwan saran
+saran vaishali
+saran bhojpur 
+vaishali samastipur
+vaishali patna
+samastipur saharsa
+samastipur khagaria
+samastipur begusarai
+samastipur nalanda
+saharsa purnia
+saharsa khagaria
+buxar bhojpur
+buxar kaimur
+buxar rohtas
+buxar arwar
+bhojpur patna
+bhojpur arwal
+bhojpur jehanabad
+bhojpur aurangabad
+patna nalanda
+patna jehanabad
+patna lakhisarai
+nalanda seikhpura
+nalanda lakhisarai
+seikhpura bhagalpur
+seikhpura jamui
+seikhpura banka

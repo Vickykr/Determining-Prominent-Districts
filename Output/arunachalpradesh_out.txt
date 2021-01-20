@@ -1,0 +1,20 @@
+Most prominent distric in  is Westsiang.
+
+Betweenness centrality of all disticts of  are :
+
+Tirap 0
+Changlang 14
+Lohit 38
+Anjaw 0
+Dibangvalley 0
+LowerDibangvalley 44.5
+Uppersiang 28.5
+Westsiang 56
+Eastsiang 20
+Uppersubansiri 13.5
+Kurungkumey 23
+Lowersubansari 32
+Eastkameng 26
+PapumPare 10.5
+WestKameng 14
+Tawan 0

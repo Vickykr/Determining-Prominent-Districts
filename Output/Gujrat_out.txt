@@ -1,0 +1,37 @@
+Most prominent distric in  is Ahmedabad.
+
+Betweenness centrality of all disticts of  are :
+
+Ahmedabad 290.233
+Amreli 13.7738
+Anand 0
+Aravalli 3.56667
+Banaskantha 28
+Bharuch 0
+Bhavnagar 8.90238
+Botad 19.3881
+Udepur 12.75
+Dahod 0.95
+Dangs 0
+Dwarka 0
+Gandhinagar 7.11667
+Somnath 8.90238
+Jamnagar 56.5714
+Junagadh 1.41667
+Kachchh 0
+Kheda 51.2
+Mahisagar 7.81667
+Mehsana 0
+Morbi 0.583333
+Narmada 20.75
+Navsari 1
+Panchmahal 10.8833
+Patan 1.75
+Porbandar 6.11905
+Rajkot 20.0571
+Sabarkantha 6.58333
+Surat 9.3
+Surendranagar 14.6857
+Tapi 9.3
+Vadodara 30
+Valsad 7.4

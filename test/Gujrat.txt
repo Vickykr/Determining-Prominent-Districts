@@ -1,0 +1,107 @@
+33
+Ahmedabad
+Amreli
+Anand
+Aravalli
+Banaskantha
+Bharuch
+Bhavnagar
+Botad
+Udepur
+Dahod
+Dangs
+Dwarka
+Gandhinagar
+Somnath
+Jamnagar
+Junagadh
+Kachchh
+Kheda
+Mahisagar
+Mehsana
+Morbi
+Narmada
+Navsari
+Panchmahal
+Patan
+Porbandar
+Rajkot
+Sabarkantha
+Surat
+Surendranagar
+Tapi
+Vadodara
+Valsad
+72
+Somnath Junagarh
+Somnath Amreli
+Junagadh Porbandar
+Junagadh Rajkot
+Junagadh Amreli
+Porbandar Dwarka
+Porbandar Jamnagar
+Porbandar Rajkot
+Dwarka Jamnagar
+Jamnagar Morbi
+Jamnagar Rajkot
+Rajkot Amreli
+Amreli Botad
+Amreli Bhavnagar
+Morbi Kutch
+Morbi Surendranagar
+Bhavnagar Botad
+Bhavnagar Ahmedabad
+Botad Rajkot
+Botad Surendranagar
+Botad Ahmedabad
+Surendranagar Kutch
+Surendranagar Rajkot
+Surendranagar Ahmedabad
+Kutch Banaskantha
+Kutch Patan
+Kutch Jamnagar
+Banaskantha Patan
+Banaskantha Mehsana
+Banaskantha SabarKantha
+Patan Surendranagar
+Patan Mehesana
+Mahesana Sabarkantha
+Mahesana Gandhinagar
+Mahesana Ahmedabad
+Mahesana Surendranagar
+Ahmedabad Gandhinagar
+Ahmedabad Kheda
+Ahmedabad Anand
+Sabarkantha Aravalli
+Sabarkantha Gandhinagar
+Gandhinagar Kheda
+Aravalli Gandhinagar
+Aravalli Kheda
+Aravalli Mahisagar
+Kheda Anand
+Kheda Mahisagar
+Kheda Vadodara
+Kheda Panchmahal
+Mahisagar Panchmahal
+Mahisagar Dahod
+Anand Bahruch
+Anand Vadodara
+Dahod Udepur
+Dahod Panchmahal
+Panchmahal Vadodara
+Panchmahal Udepur
+Vadodara Udepur
+Vadodara Narmada
+Vadodara Bahruch
+Udepur Narmada
+Narmada Surat
+Narmada Tapi
+Narmada Bahruch
+Bahruch Surat
+Surat Navsari
+Surat Tapi
+Navsari Valsad
+Navrasi Dang
+Navsari Tapi
+Tapi Dang
+Dang Valsad

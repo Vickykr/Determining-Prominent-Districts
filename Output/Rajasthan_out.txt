@@ -1,0 +1,37 @@
+Most prominent distric in  is Jaipur.
+
+Betweenness centrality of all disticts of  are :
+
+Ajmer 85.7593
+Alwar 11.2541
+Banswara 0.5
+Baran 0
+Barmer 8.42143
+Bharatpur 12.3448
+Bhilwara 70.0252
+Bikaner 53.9254
+Bundi 30.1607
+Chittorgarh 43.4622
+Churu 25.3481
+Dausa 48.0767
+Dholpur 0
+Dungarpur 6.41408
+Hanumangarh 1.33333
+Jaipur 136.95
+Jaisalmer 2.61667
+Jalore 2.74524
+Jhalawar 0
+Jhunjhunu 0
+Jodhpur 26.6841
+Karauli 20.1552
+Kota 62.0833
+Nagaur 133.484
+Pali 100.143
+Pratapgarh 23.5859
+Rajsamand 66.5234
+Sawaimadhopur 72.9586
+Sikar 28.9861
+Sirohi 20.0511
+Sriganganagar 0
+Tonk 61.4675
+Udaipur 54.5411

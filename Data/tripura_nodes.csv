@@ -1,0 +1,13 @@
+Start,End
+North_Tripura,Unakoti
+North_Tripura,Dhalai
+Unakoti,Dhalai
+Dhalai,Khowai
+Dhalai,Gomati
+Khowai,Gomati
+West_Tripura,Khowai
+Khowai,Sipahijala
+West_Tripura,Sipahijala
+Sipahijala,South_Tripura
+Gomati,Sipahijala
+Gomati,South_Tripura

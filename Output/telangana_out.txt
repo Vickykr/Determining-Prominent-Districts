@@ -1,0 +1,37 @@
+Most prominent distric in  is Siddipet.
+
+Betweenness centrality of all disticts of  are :
+
+Adilabad 4.97772
+BhadradriKothagudem 2.74444
+Hyderabad 0
+Jagtial 18.939
+Jangaon 51.4942
+JayashankarBhupalpally 56.5489
+JogulambaGadwal 0
+Kamareddy 55.3679
+Karimnagar 62.38
+Khammam 5.04048
+KumuramBheem 4.23077
+Mahabubabad 38.7007
+Mahabubnagar 20.1409
+Mancherial 39.3088
+Medak 9.82195
+Medchal 26.2155
+Mulugu 20.8772
+Nagarkurnool 29.2406
+Nalgonda 36.6039
+Narayanpet 18.5835
+Nirmal 42.5187
+Nizamabad 42.8986
+Peddapalli 11.9435
+RajannaSircilla 33.8166
+Rangareddy 82.0952
+Sangareddy 61.6053
+Siddipet 99.3417
+Suryapet 47.0157
+Vikarabad 38.4427
+Wanaparthy 14.1399
+Warangal(Rural) 26.8981
+Warangal(Urban) 8.23645
+YadadriBhuvanagiri 71.8309

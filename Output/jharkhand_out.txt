@@ -1,0 +1,28 @@
+Most prominent distric in  is ranchi.
+
+Betweenness centrality of all disticts of  are :
+
+garhwa 0
+palamu 4.03571
+latehar 24.2143
+chatra 26.3048
+hazaribagh 117.674
+koderma 0
+giridh 100.029
+ramgarh 7.59286
+bokaro 13.0714
+dhanbad 2.96667
+gumla 10.6667
+lohardaga 0
+simdega 0.333333
+ranchi 120.112
+khunti 4.91667
+west_singhbhum 7.58333
+saraikela_kharsawan 22
+east_singhbhum 0
+jamtara 39.5667
+deoghar 32.9333
+dumka 60
+pakur 10.5
+godda 10.5
+sahebganj 0

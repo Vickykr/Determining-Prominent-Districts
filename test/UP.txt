@@ -1,0 +1,215 @@
+75
+Agra
+Aligarh
+Akbarpur
+Amethi
+Amroha
+Auraiya
+Azamgarh
+Baghpat
+Bahraich
+Ballia
+Balrampur
+Banda
+Barabanki
+Bareilly
+Basti
+Bhadohi
+Bhinga
+Bijnor
+Budaun
+Bulandshahar
+Chandauli
+Chitrakoot
+Deoria
+Etah
+Etawah
+Faizabad
+Farrukhabad
+Fatehpur
+Firozabad
+Gautam_Buddha_Nagar
+Ghaziabad
+Ghazipur
+Gonda
+Gorakhpur
+Hamirpur
+Hapur
+Hardoi
+Hathras
+Jalaun
+Jaunpur
+Jhansi
+Kannauj
+Kanpur_Dehat
+Kanpur
+Kasganj
+Kaushambi
+Khalilabad
+Kushinagar
+Lakhimpur
+Lalitpur
+Lucknow
+Maharajganj
+Mahoba
+Mainpuri
+Mathura
+Mau
+Meerut
+Mirzapur
+Moradabad
+Muzaffarnagar
+Naogarh
+Pilibhit
+Pratapgarh
+Prayagraj
+RaeBareli
+Rampur
+Saharanpur
+Sambhal
+Shahjahanpur
+Shamali
+Sitapur
+Sonbhadra
+Sultanpur
+Unnao
+Varanasi
+138
+Shamali Saharanpur
+Saharanpur Muzaffarnagar
+Shamali Muzaffarnagar
+Muzaffarnagar Bijnor 
+Muzaffarnagar Meerut
+Meerut Bijnor
+Ghaziabad Meerut
+Meerut Hapur
+Hapur Moradabad
+Meerut Moradabad
+Moradabad Amroha
+Moradabad Bulandshahar
+Moradabad Sambhal
+Bulandshahar Sambhal
+Bulandshahar Aligarh
+Sambhal Amroha
+Sambhal Rampur
+Aligarh Mathura
+Aligarh Kasganj
+Aligarh Hathras
+Aligarh Budaun
+Budaun Rampur
+Budaun Bareilly
+Budaun Shahjahanpur
+Budaun Farrukhabad
+Bareilly Rampur
+Bareilly Pilibhit
+Bareilly Shahjahanpur
+Pilibhit Shahjahanpur
+Pilibhit Lakhimpur
+Mathura Hathras
+Mathura Agra
+Hathras Agra
+Hathras Etah
+Hathras Kasganj
+Kasganj Budaun
+Kasganj Farrukhabad
+Agra Etah
+Agra Firozabad
+Agra Etawah
+Etah Firozabad
+Etah Mainpuri
+Etah Farrukhabad
+Firozabad Etawah
+Firozabad Mainpuri
+Etawah Mainpuri 
+Etawah Auraiya
+Etawah Kannauj
+Mainpuri Kannauj
+Mainpuri Farrukhabad
+Farrukhabad Kannauj
+Farrukhabad Hardoi
+Farrukhabad Shahjahanpur
+Shahjahanpur Lakhimpur
+Shahjahanpur Hardoi
+Shahjahanpur Sitapur
+Jhansi Mahoba 
+Jhansi Hamirpur
+Auraiya Kannauj
+Auraiya Akbarpur
+Kannauj Hardoi
+Kannauj Kanpur
+Hardoi Kanpur
+Hardoi Unnao
+Hardoi Lucknow
+Hardoi Lakhimpur
+Lakhimpur Bahraich
+Mahoba Banda
+Mahoba Hamirpur
+Hamirpur Banda
+Hamirpur Akbarpur
+Hamirpur Kanpur
+Akbarpur Kanpur
+Kanpur Unnao
+Kanpur Fatehpur
+Unnao Fatehpur
+Unnao Lucknow
+Unnao RaeBareli
+Lucknow RaeBareli
+Lucknow Barabanki
+Lucknow Sitapur
+Sitapur Bahraich
+Sitapur Lakhimpur
+Banda Fatehpur
+Banda Chitrakoot
+Fatehpur RaeBareli
+Fatehpur Pratapgarh
+Fatehpur Chitrakoot
+RaeBareli Amethi
+RaeBareli Pratapgarh
+Barabanki RaeBareli
+Barabanki Amethi
+Barabanki Faizabad
+Barabanki Gonda
+Bahraich Bhinga
+Bahraich Gonda
+Bhinga Balrampur
+Amethi Faizabad
+Amethi Sultanpur
+Faizabad Gonda
+Faizabad Basti
+Gonda Balrampur
+Balrampur Naogarh
+Chitrakoot Prayagraj
+Pratapgarh Jaunpur
+Pratapgarh Prayagraj
+Pratapgarh Amethi 
+Pratapgarh Sultanpur
+Sultanpur Faizabad
+Sultanpur Azamgarh
+Basti Khalilabad
+Basti Naogarh
+Naogarh Maharajganj
+Prayagraj Mirzapur
+Prayagraj Bhadohi
+Prayagraj Jaunpur
+Jaunpur Varanasi
+Jaunpur Bhadohi
+Jaunpur Azamgarh
+Jaunpur Ghazipur
+Azamgarh Mau
+Azamgarh Ghazipur
+Azamgarh Gorakhpur
+Khalilabad Gorakhpur
+Gorakhpur Maharajganj
+Gorakhpur Deoria
+Bhadohi Varanasi
+Bhadohi Mirzapur
+Mirzapur Sonbhadra
+Mirzapur Chandauli
+Varanasi Chandauli
+Varanasi Ghazipur
+Sonbhadra Chandauli
+Chandauli Ghazipur
+Ghazipur Ballia
+Mau Ballia
+Mau Ghazipur
+Mau Deoria

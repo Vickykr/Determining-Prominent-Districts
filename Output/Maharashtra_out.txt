@@ -1,0 +1,40 @@
+Most prominent distric in  is Ahmednagar.
+
+Betweenness centrality of all disticts of  are :
+
+Ahmednagar 220.945
+Akola 40.7135
+Amravati 24.3
+Aurangabad 73.4145
+Beed 165.889
+Bhandara 35
+Buldhana 126.127
+Chandrapur 85.4667
+Dhule 34
+Gadchiroli 0
+Gondia 0
+Hingoli 40.416
+Jalgaon 103.796
+Jalna 45.0728
+Kolhapur 6.79823
+Latur 0
+Mumbai_City 0
+Mumbai_Suburban 42.2651
+Nagpur 10.5333
+Nanded 121.536
+Nandurbar 0
+Nashik 80.2636
+Osmanabad 0
+Palghar 55.6969
+Parbhani 13.3455
+Pune 97.8755
+Raigad 44.543
+Ratnagiri 34.1684
+Sangli 33.6316
+Satara 41.4921
+Sindhudurg 5.16667
+Solapur 107.061
+Thane 27.4985
+Wardha 27.5865
+Washim 24.6833
+Yavatmal 152.715

@@ -1,0 +1,31 @@
+Most prominent distric in Chattisgarh is Dhamtari.
+
+Betweenness centrality of all disticts of Chattisgarh are :
+
+Balod 1.93333
+Baloda_Bazar 47.7464
+Balrampur 0.533333
+Bastar 23.8881
+Bemetara 30.3048
+Bijapur 2.15
+Bilaspur 23.7536
+Dantewada 3.15
+Dhamtari 111.957
+Durg 6.33333
+Gariaband 0
+Janjgir_Champa 17.7361
+Jashpur 13.2613
+Kabirdham 5.43492
+Kanker 48.0405
+Kondagaon 62.3429
+Korba 22.3924
+Koriya 1.75952
+Mahasamund 94.372
+Mungeli 14.3221
+Narayanpur 42.1119
+Raigarh 77.1865
+Raipur 21.4941
+Rajnandgaon 25.7857
+Sukma 0.5
+Surajpur 19.601
+Surguja 2.90952

@@ -1,0 +1,34 @@
+Most prominent distric in  is Tumakuru.
+
+Betweenness centrality of all disticts of  are :
+
+Bagalkot 23.8458
+Belagavi 57.1955
+BengaluruUrban 1.06667
+BengaluruRural 19.5024
+Ballari 93.8935
+Bidar 0
+Bijapur 58.5856
+Chamarajanagar 2.21667
+Chikkamagaluru 89.1144
+Chikkaballapur 19.5024
+Chitradurga 88.1013
+DakshinaKannada 22.9055
+Davanagere 20.7938
+Dharwad 9.61821
+Gadag 29.5644
+Gulbarga 28
+Haveri 21.2928
+Hassan 40.43
+Kolar 0
+Koppal 48.0689
+Kodagu 3.30689
+Mandya 16.6186
+Mysuru 6.26471
+Ramanagara 24.1131
+Raichur 25.1006
+Shimoga 29.7439
+Tumakuru 137.387
+Udupi 45.4024
+UttaraKannada 67.6121
+Yadgir 4.75325

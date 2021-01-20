@@ -1,0 +1,42 @@
+Most prominent distric in Bihar is araria.
+
+Betweenness centrality of all disticts of Bihar are :
+
+araria 233.575
+arwal 0
+aurangabad 0
+banka 0
+begusarai 0
+bhagalpur 0
+bhojpur 84.6833
+buxar 69.2222
+darbhanga 22.0135
+eastchamparan 19.2833
+gaya 0
+gopalganj 2.58333
+jamui 0
+jehanabad 0
+khagaria 0
+kishanganj 0
+kalmur 0
+katihar 0
+lakhisarai 0
+madhubani 9.91905
+munger 0
+madhepura 0
+muzaffarpur 97.2135
+nalanda 55.8302
+nawada 0
+patna 33.2762
+purnia 38.45
+rohtas 0
+saharsa 22.6651
+samastipur 83.1754
+sheohar 0
+sheikhpura 0
+saran 42.7206
+sitamarhi 8.44444
+supaul 7.05556
+siwan 0
+vaishali 16.8889
+westchanparan 0

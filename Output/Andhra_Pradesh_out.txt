@@ -1,0 +1,17 @@
+Most prominent distric in Andhra_Pradesh is Prakasam.
+
+Betweenness centrality of all disticts of Andhra_Pradesh are :
+
+Chittoor 0.5
+Anantapur 0
+Kadapa 5.5
+Nellore 4.5
+Prakasam 40.5
+Kurnool 0
+Guntur 36
+Krishna 0
+West-Godavari 32
+East-Godavari 27
+Visakhapatnam 0
+Vizianagaram 11
+Srikakulam 0

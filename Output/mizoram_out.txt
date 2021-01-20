@@ -1,0 +1,12 @@
+Most prominent distric in  is Lunglei.
+
+Betweenness centrality of all disticts of  are :
+
+Aizwal 3.5
+Champhai 0
+Kolasib 0
+Lawngtlai 0
+Lunglei 10.5
+Mamit 4.5
+Saiha 0
+Serchhip 4.5

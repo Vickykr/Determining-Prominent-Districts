@@ -1,0 +1,92 @@
+27
+Balod
+Baloda_Bazar
+Balrampur
+Bastar
+Bemetara
+Bijapur
+Bilaspur
+Dantewada
+Dhamtari
+Durg
+Gariaband
+Janjgir_Champa
+Jashpur
+Kabirdham
+Kanker
+Kondagaon
+Korba
+Koriya
+Mahasamund
+Mungeli
+Narayanpur
+Raigarh
+Raipur
+Rajnandgaon
+Sukma
+Surajpur
+Surguja
+63
+Balod Dhamtari
+Balod Rajnandgaon
+Balod Kanker
+Balod Durg
+Baloda_Bazar Bilaspur
+Baloda_Bazar Mungeli
+Baloda_Bazar Bemetara
+Baloda_Bazar Raipur
+Baloda_Bazar Mahasamund
+Baloda_Bazar Raigarh
+Baloda_Bazar Janjgir_Champa
+Balrampur Surajpur
+Balrampur Surguja
+Balrampur Jashpur
+Bastar Sukma
+Bastar Dantewada
+Bastar Kondagaon
+Bemetara Raipur
+Bemetara Durg
+Bemetara Mungeli
+Bemetara Kabirdham
+Bemetara Rajnandgaon
+Bijapur Narayanpur
+Bijapur Dantewada
+Bijapur Sukma
+Bilaspur Mungeli
+Bilaspur Janjgir_Champa
+Bilaspur Korba
+Bilaspur Koriya
+Dantewada Sukma
+Dantewada Bastar
+Dantewada Narayanpur
+Dhamtari Raipur
+Dhamtari Durg
+Dhamtari Mahasamund
+Dhamtari Gariaband
+Dhamtari Kondagaon
+Dhamtari Kanker
+Durg Rajnandgaon
+Durg Raipur
+Gariaband Raipur
+Gariaband Mahasamund
+Janjgir_Champa Mahasamund
+Janjgir_Champa Raigarh
+Janjgir_Champa Korba
+Jashpur Raigarh
+Jashpur Surguja
+Kabirdham Mungeli
+Kabirdham Rajnandgaon
+Kanker Rajnandgaon
+Kanker Kondagaon
+Kanker Narayanpur
+Kondagaon Narayanpur
+Korba Surguja
+Korba Raigarh
+Korba Koriya
+Korba Surajpur
+Koriya Surajpur
+Mahasamund Raigarh
+Mahasamund Gariaband
+Mahasamund Raipur
+Raigarh Surajpur
+Surajpur Surguja

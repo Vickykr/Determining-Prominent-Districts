@@ -1,0 +1,11 @@
+4
+East_Sikkim
+North_Sikkim
+South_Sikkim
+West_Sikkim
+5
+North_Sikkim West_Sikkim
+North_Sikkim South_Sikkim
+North_Sikkim East_Sikkim
+West_Sikkim South_Sikkim
+South_Sikkim East_Sikkim

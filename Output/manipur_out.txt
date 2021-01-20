@@ -1,0 +1,13 @@
+Most prominent distric in  is Churachandpur.
+
+Betweenness centrality of all disticts of  are :
+
+Bishnupur 0
+Chandel 9
+Churachandpur 11
+Imphal_East 0
+Imphal_West 0
+Senapati 0
+Tamenglong 5
+Thoubal 0
+Ukhrul 0

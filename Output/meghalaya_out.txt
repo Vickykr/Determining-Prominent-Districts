@@ -1,0 +1,15 @@
+Most prominent distric in  is West_Khasi_Hills.
+
+Betweenness centrality of all disticts of  are :
+
+West_Jaintia_Hills 9
+East_Jaintia_Hills 0
+East_Khasi_Hills 8.83333
+West_Khasi_Hills 22.6667
+South_West_Khasi_Hills 1.16667
+RiBhoi 5.66667
+North_Garo_Hills 5.66667
+East_Garo_Hills 8.83333
+South_Garo_Hills 1.16667
+West_Garo_Hills 9
+South_West_Garo_Hills 0

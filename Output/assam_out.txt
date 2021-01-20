@@ -1,0 +1,37 @@
+Most prominent distric in Assam is Tinsukia.
+
+Betweenness centrality of all disticts of Assam are :
+
+Tinsukia 160.193
+Dibrugarh 62.963
+Dhemaji 5.35
+Charaideo 0
+Sivasagar 5.97316
+Lakhimpur 4.15
+Majuli 19.8669
+Jorhat 3.05
+Biswanath 32.1604
+Golaghat 28.2432
+Karbi_Anglong 26.7737
+Sonitpur 34.7295
+Nagaon 99.7807
+Hojai 1
+Karbi_Anglong_West 38.4667
+Dima_Hassao 0
+Cachar 0
+Hailakandi 30
+Karimganj 58
+Morigaon 104.422
+Udalguri 8.59669
+Darrang 65.077
+Kamrup_Metro 0
+Baksa 37.6493
+Nalbari 0
+Kamrup 82.1017
+Barpeta 16.1857
+Chirang 14.2056
+Bongaigaon 22.4373
+Goalpara 69.6246
+Kokrajhar 0
+Dhubri 0
+South_Salmara_Mankachar 0

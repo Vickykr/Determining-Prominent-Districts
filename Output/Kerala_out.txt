@@ -1,0 +1,18 @@
+Most prominent distric in  is Ernakulam.
+
+Betweenness centrality of all disticts of  are :
+
+Kasaragod 4.5
+Kannur 1
+Kozhikode 8.5
+Wayanad 26
+Malappuram 2
+Thrissur 8
+Palakkad 0
+Ernakulam 54.1667
+Alappuzha 11.6667
+Kottayam 7
+Idukki 7
+Pathanamtitta 8.83333
+Kollam 2.33333
+Thiruvananthapuram 4

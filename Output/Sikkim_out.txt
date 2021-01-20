@@ -1,0 +1,8 @@
+Most prominent distric in  is North_Sikkim.
+
+Betweenness centrality of all disticts of  are :
+
+East_Sikkim 0
+North_Sikkim 0.5
+South_Sikkim 0.5
+West_Sikkim 0
